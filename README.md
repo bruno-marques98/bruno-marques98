@@ -3,7 +3,7 @@
 This file is to show a little about my skills. I´m a developer since 2017 with a degree in Computer Science in Instituto Politécnico de Setúbal.
 
 
-Skills: REACT / JS / HTML / CSS / C / C# / ASP.NET MVC / Angular
+Skills: C# / JS / HTML / CSS / C / ASP.NET MVC / Angular
 
 - 🔭 I’m currently working on SAP UI5 
 
